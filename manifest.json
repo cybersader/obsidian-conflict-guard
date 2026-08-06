@@ -1,7 +1,7 @@
 {
 	"id": "conflict-guard",
 	"name": "Conflict Guard",
-	"version": "0.1.9",
+	"version": "0.1.10",
 	"minAppVersion": "1.0.0",
 	"description": "Conflict-safe CRDT sync for file-synced vaults (OneDrive, Dropbox, Syncthing, SMB, iCloud, git): merges instead of conflicted-copy litter, plus best-effort presence. Zero server, not real-time.",
 	"author": "cybersader",
